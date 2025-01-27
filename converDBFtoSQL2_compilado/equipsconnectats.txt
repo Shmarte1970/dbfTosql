@@ -1,0 +1,1 @@
+FieldnameList(['EQUIP V(50)', 'IDUSUARI I(4)', 'IP C(14)', 'DATAINICI T(8)', 'DATAFI T(8)', '_NullFlags 0(1)'])

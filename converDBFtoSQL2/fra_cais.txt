@@ -1,0 +1,1 @@
+FieldnameList(['CAI N(7)', 'CLIENT N(7)', 'CONT C(13)', 'LONG N(3)', 'TIPO C(5)', 'ENT D(8)', 'SAL D(8)', 'REPARAT D(8)', 'AUT D(8)', 'RESERVA C(19)', 'FACTURAR N(7)', 'FRA_A N(7)', 'TOTAL N(10)', 'OK C(1)', 'DOC N(7)', 'ANULAR L(1)', 'NETEJA L(1)', 'CAIANT N(7)'])
